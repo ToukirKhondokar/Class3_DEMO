@@ -1,0 +1,14 @@
+F:\C# learning\New folder\Class3_Demo\bin\Debug\net8.0\Class3_Demo.exe
+F:\C# learning\New folder\Class3_Demo\bin\Debug\net8.0\Class3_Demo.deps.json
+F:\C# learning\New folder\Class3_Demo\bin\Debug\net8.0\Class3_Demo.runtimeconfig.json
+F:\C# learning\New folder\Class3_Demo\bin\Debug\net8.0\Class3_Demo.dll
+F:\C# learning\New folder\Class3_Demo\bin\Debug\net8.0\Class3_Demo.pdb
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.AssemblyInfoInputs.cache
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.AssemblyInfo.cs
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.csproj.CoreCompileInputs.cache
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.dll
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\refint\Class3_Demo.dll
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.pdb
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\Class3_Demo.genruntimeconfig.cache
+F:\C# learning\New folder\Class3_Demo\obj\Debug\net8.0\ref\Class3_Demo.dll
